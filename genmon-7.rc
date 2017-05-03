@@ -1,0 +1,6 @@
+Command=/home/lukas/scripts/genmon_updates.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=3600000
+Font=Droid Sans 10
+
